@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+	<title>New Project</title>
+	<defs>
+		<image  width="192" height="192" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADAAQMAAABoEv5EAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAcSURBVHic7cExAQAAAMKg9U9tDQ+gAAAAAODXABLAAAHSway+AAAAAElFTkSuQmCC"/>
+		<image  width="128" height="128" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACAAQMAAAD58POIAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA/wCFhi36jQAAAAJ0Uk5TAP9bkSK1AAABE0lEQVR4nO2WsQ2EMBAEjQgIKcGluDQojVIogZDA+vsHc/j215IRQh/9Zkywtxb4Fud2dSKzM2rlo8mAfgOLAcMGXvm5kV3jCboEsq1PYEULY3JYZJNOgZr0CjRJUBDRM7vKKXOypAmH6Jg+g8UGz+FDBhGn6lwxgqPp8VoLJoxRADPmSsm8BWsJBAsiBk1RCQioABoEI4MWwcSgQzAz6BEsDDyC9QIICOIdMCB4PQLkS3/wCzDg8zOvMiC49Y15BFc+7fp9qd+5+r2t3/36/riwg4IF8dKmo+VI65M2LgFa0rTGedGbqLFcFlQnVDhm7lguLa61c64WH1UjlSfVKxUwVzSVONU8/Qjwr4IzBzltD8s3ZMtZYC9THbEAAAAASUVORK5CYII="/>
+		<image  width="69" height="70" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABGCAMAAACtx6m1AAAAAXNSR0IB2cksfwAAAEhQTFRF////////////////////AAAA////////////////////////////////////////////////////////////////////////cFe2mQAAABh0Uk5TIL//z1AAb58QsGBwkO/Ar0DfgKAw8ODQDEbhwAAAAapJREFUeJzt2Nt2gyAQBVBEaalRizGa///TXlaayMwZZvCpD/ImC/YicrgY5xq/K20XLOWt3Xd6j+7D56U3IBfSZ3Ckwo9RRVifidX4QVU+DYp3CpJYD6Q0itKYFJ+KSM87QKUtKrNRKc72FbTHyizPdhzNir+KyoKaC4oYPdxcUPwiKHyWS4q/QYQHrqzg6LW4sajA6IHAKcrMkQgCpyggeihwmsJm26HAaQqLHgycqoz5RnOTW5YUEj0cOF3JoicEzqDsoyfNsq741+kkBc6iPKMHtxWr4i9a4EzKI3pKK015RE8OnE35PeNKsywo5PhfeOAmg0JrUujyipU8Q4W+hIYGrmc/EClxJUz+uPHXhBQlHL1RoYPJe4Apgwq7ce1LMithKw3FrMgrOFUo4S4gC9ywJEXKvKtSAkv5aygVCtzx11ipwM3gKmzksgK2jMdQapQwSEOpUtg62MSjqaCwRdkfUshgnkOpU8g6SAeVbFFO4aiya77eDiuh+3s1W/H6oCjfKyH9lPw+VK+gciqncir/WKH/KN11hZ0Og4s5M+EP6bx0+f1miV9QCEHcAtSoJAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Shape 1" href="#img2" x="32" y="32"/>
+	<use id="M" href="#img3" x="61" y="61"/>
+</svg>

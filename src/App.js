@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import LifeCounter from "./components/lifeCounter";
 
 function App() {
+  let initialLife = 40;
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="background center-content">
+      </div>
+      <div className="background grid absolute big-font">
+        <div className="top-left">
+          <div className="content center-content one top-life"><LifeCounter initialLife={initialLife}/></div>
+        </div>
+        <div className="top-right">
+          <div className="content center-content two top-life"><LifeCounter initialLife={initialLife}/></div>
+        </div>
+        <div className="bottom-left">
+          <div className="content center-content three"><LifeCounter initialLife={initialLife}/></div>
+        </div>
+        <div className="bottom-right">
+          <div className="content center-content four"><LifeCounter initialLife={initialLife}/></div>
+        </div>
+      </div>
     </div>
   );
 }
